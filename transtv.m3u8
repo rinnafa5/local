@@ -1,6 +1,4 @@
 #EXTM3U
-
-#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=744100,FRAME-RATE=25.000,RESOLUTION=1280x720
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w670976066_b744100_sleng.m3u8
