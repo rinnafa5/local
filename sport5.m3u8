@@ -2,5 +2,5 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=744100,FRAME-RATE=25.000,RESOLUTION=1280x720
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlistMain_1_.m3u8
-
+#EXT-X-STREAM-INF:BANDWIDTH=544100,FRAME-RATE=25.000,RESOLUTION=854x480
 https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlistMain_2_.m3u8
