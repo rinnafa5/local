@@ -1,3 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
 #EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8
