@@ -96,4 +96,33 @@ https://raw.githubusercontent.com/rinnafa5/local/main/magna.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",RODJA
 https://raw.githubusercontent.com/rinnafa5/local/main/rodja.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",sports5
+https://raw.githubusercontent.com/rinnafa5/local/main/sport5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",persiana sports
+https://raw.githubusercontent.com/rinnafa5/local/main/persiana.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",4sports
+https://raw.githubusercontent.com/rinnafa5/local/main/4sport.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",iribtv3
+https://raw.githubusercontent.com/rinnafa5/local/main/iribtv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",varzesh
+https://raw.githubusercontent.com/rinnafa5/local/main/varzesh.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",solh
+https://raw.githubusercontent.com/rinnafa5/local/main/solh.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",ssc1
+https://raw.githubusercontent.com/rinnafa5/local/main/ssc1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",Bein1
+https://wo.cma.footballii.ir/hls2/b1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",Bein2
+https://wo.cma.footballii.ir/hls2/b2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",Bein3
+https://wo.cma.footballii.ir/hls2/b3.m3u8
 
