@@ -96,6 +96,36 @@ https://raw.githubusercontent.com/rinnafa5/local/main/magna.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",RODJA
 https://raw.githubusercontent.com/rinnafa5/local/main/rodja.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",sportstars2
+https://live-channel1-cdn.visionplus.id/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",soccer channel
+https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",dubai1
+https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",dubai2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",dubai3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",oman
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",kuwait
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",kuwait2
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",bahrain1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",bahrain2
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",sports5
 https://raw.githubusercontent.com/rinnafa5/local/main/sport5.m3u8
 
