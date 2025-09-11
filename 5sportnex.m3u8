@@ -598,3 +598,80 @@ https://gaje0525.edgemaxcdn.org/live/m1l7/playlist.m3u8
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS", EVENT1 BOLA 8
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://gaje0525.edgemaxcdn.org/live/m1l8/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vebotv.app/leagues/badminton.png" group-title="BADMINTON+", BADMINTON 1
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=true
+https://hotlivezz179026907.akainu.xyz/03lmmUexJHSVirqlZMdNYw/Fv2lucGIbhPi2caWYvF5Lg/1746699338820/live/may24/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vebotv.app/leagues/badminton.png" group-title="BADMINTON+",BADMINTON 2
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=true
+https://hotlivezz179026907.akainu.xyz/bD-QEQ5sRwzT3fAtTo4rhw/Fv2lucGIbhPi2caWYvF5Lg/1746699338820/live/may26/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vebotv.app/leagues/badminton.png" group-title="BADMINTON+",BADMINTON 3
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=true
+https://hotlivezz179026907.akainu.xyz/ruEu1TlYhEFOR-NZT-Is2g/Fv2lucGIbhPi2caWYvF5Lg/1746699338821/live/may25/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vebotv.app/leagues/badminton.png" group-title="BADMINTON+",BADMINTON 4
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=true
+https://hotlivezz179026907.akainu.xyz/4AO1Yn8D4JwNcdU-191-5w/Fv2lucGIbhPi2caWYvF5Lg/1746699338821/live/may27/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vebotv.app/leagues/badminton.png" group-title="BADMINTON+",BADMINTON 5 
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+#EXTVLCOPT:http-connection-timeout=5000
+#EXTVLCOPT:http-reconnect=true
+https://hotlivezz179026907.akainu.xyz/KOiwcyra56H3iVq_mlM-Dw/Fv2lucGIbhPi2caWYvF5Lg/1748426789328/live/may241/chunklist.m3u8
+
+#EXTINF:-1 group-title="BADMINTON+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRguV4d3P8K_s7FYqsgcIXy1BIFKQMGtxtgkAJE97Y7Ev5vZmitEUDrsLYM&s=10",BRI LIGA1
+#EXTVLCOPT:http-origin=https://demo.zplayer.xyz
+#EXTVLCOPT:http-referrer=https://demo.zplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/F6LXH75UqjSl8IFdeEYkag/Fv2lucGIbhPi2caWYvF5Lg/1755378612443/live/dungSD/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="BADMINTON+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttGcYmUhCc0G3QFHAugy_mKcDnNVNLjP_UTmoMgmZZ-iFYEA5qCLNe96F&s=10", VOLI DUNIA 1
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/uogXD1mxvKVx9Qlj0Jquhg/Fv2lucGIbhPi2caWYvF5Lg/1749353840122/live/chimSD/chunklist.m3u8
+
+#EXTINF:-1 group-title="BADMINTON+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttGcYmUhCc0G3QFHAugy_mKcDnNVNLjP_UTmoMgmZZ-iFYEA5qCLNe96F&s=10", VOLI DUNIA 2
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/p7dv03u6seDQkk9OvC3bmQ/Fv2lucGIbhPi2caWYvF5Lg/1750883323078/live/may10/chunklist.m3u8
+
+#EXTINF:-1 group-title="BADMINTON+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttGcYmUhCc0G3QFHAugy_mKcDnNVNLjP_UTmoMgmZZ-iFYEA5qCLNe96F&s=10", VOLIDUNIA 3
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/KrZNRprXLrTDoHd54kRSVg/Fv2lucGIbhPi2caWYvF5Lg/1750245650456/live/may17/chunklist.m3u8
+
+#EXTINF:-1 group-title="BADMINTON+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttGcYmUhCc0G3QFHAugy_mKcDnNVNLjP_UTmoMgmZZ-iFYEA5qCLNe96F&s=10", VOLI DUNIA 4
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179026907.akainu.xyz/vr984ubu8H09KjASXZVWeQ/Fv2lucGIbhPi2caWYvF5Lg/1749386843546/live/may21/chunklist.m3u8
+
+#EXTINF:-1 group-title="BADMINTON+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRttGcYmUhCc0G3QFHAugy_mKcDnNVNLjP_UTmoMgmZZ-iFYEA5qCLNe96F&s=10", VOLI DUNIA 5
+#EXTVLCOPT:http-origin=https://g.zoomplayer.xyz
+#EXTVLCOPT:http-referrer=https://g.zoomplayer.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+https://hotlivezz179602324.akainu.xyz/2EbdTDGu_TyNx6ko0v8ZSQ/Fv2lucGIbhPi2caWYvF5Lg/1754504104185/live/cunSD/chunklist.m3u8
