@@ -357,8 +357,11 @@ https://e101.hellotherepadawan.org/v5/MErwdVYZG0_opEvCd5rDeQ/1756824005/0c97fa64
 #EXTINF:-1 tvg-logo="" group-title="THAITV ", true7
 https://e112.hellotherepadawan.org/v5/j1fS6IvU-9S90Shg9mNHlw/1756823606/eb79b2290aed13cdd693ebbf408b324d/kVqWZlXdXnGWwXdkKA3p0g/1756834286/live/dx-origin/th-tsport7_480/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ", true7 bkp
+#EXTINF:-1 tvg-logo="" group-title="THAITV ", true7
 https://la3.hellotherepadawan.org:9305/v5/ulZmQIpAfX6L1nAa_pAljg/1756823554/0c97fa64d36e19348bb46d25cd9d737e/1jQpif-gx8BqtgwqHDVhIA/1756834234/live/vx-origin/dooball66-tsport7_480/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="THAITV ",  astro+
+https://la2.hellotherepadawan.org:9308/v5/zyDXfFI3lN86ENMBw-Wl6w/1756707695/0c97fa64d36e19348bb46d25cd9d737e/1gMEYWXSO-QAe39B6i1eCA/1756718375/live/vx-origin/my-astro-sportsplus_480/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="THAITV ", spo1
 https://e101.hellotherepadawan.org/v5/barDFsbTqiVHB9S7KbLKKg/1756823726/eb79b2290aed13cdd693ebbf408b324d/MWW_UkRCuf01B_BQ4M1YWQ/1756834406/live/vx-origin/th-spotv1_480/chunks.m3u8
