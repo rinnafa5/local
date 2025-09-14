@@ -433,13 +433,13 @@ https://e102.hellotherepadawan.org/v5/sTSrKl5HZCSEaDwNHwPscA/1756883945/21eb375c
 #EXTINF:-1 tvg-logo="" group-title="THAITV ",s13
 https://e109.hellotherepadawan.org/v5/a2sMJYKW5QeszWzyxQYltQ/1756883880/21eb375cf969f68b14472a41fdc88044/AFAobzeTEzH06qTt_03r4A/1756894560/live/lx-origin/af-supersport13_480/chunks.m3u8
 
-#EXTINF:-1 group-title="THAITV" tvg-logo="",mono1 eng
+#EXTINF:-1 tvg-logo="" group-title="THAITV ",mono1 eng
 https://e108.hellotherepadawan.org/v5/JSBqJ0iahPf2C4hrReyfqQ/1757411779/cbcd5ac14555433b845b8c8784178a94/SEWVUUbBpoNl52iPSy2Jdg/1757422459/live/lx-origin/th-monomax01eng_480/chunks.m3u8
 
-#EXTINF:-1 group-title="THAITV" tvg-logo="",mono2 eng
+#EXTINF:-1 tvg-logo="" group-title="THAITV ",mono2 eng
 https://e108.hellotherepadawan.org/v5/JSBqJ0iahPf2C4hrReyfqQ/1757411779/cbcd5ac14555433b845b8c8784178a94/SEWVUUbBpoNl52iPSy2Jdg/1757422459/live/lx-origin/th-monomax02eng_480/chunks.m3u8
 
-#EXTINF:-1 group-title="THAITV" tvg-logo="",mono3 th
+#EXTINF:-1 tvg-logo="" group-title="THAITV ",mono3 th
 https://e102.hellotherepadawan.org/v5/SnjRW_a1FNppXECGMwnlwg/1757409898/cbcd5ac14555433b845b8c8784178a94/eUZQ9HmWSP3QEKnIJ8vIMw/1757420578/live/dx-origin/th-monomax03_480/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="THAITV ",max1
