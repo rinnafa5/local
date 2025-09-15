@@ -189,6 +189,9 @@ https://mt01.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 group-title="TELESPORT" tvg-id="" tvg-logo="",WOWOW Live
 https://mt01.utako.moe/wlive/index.m3u8
 
+#EXTINF:-1 group-title="TELESPORT" tvg-id="" tvg-logo="",CBS GOLAZO
+https://da.gd/golajo
+
 
 #EXTINF:-1 tvg-logo="" group-title="SONYSPORT",sonyten2
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
