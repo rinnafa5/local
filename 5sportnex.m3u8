@@ -495,6 +495,10 @@ https://gaje0525.edgemaxcdn.org/live/laruesd1/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://gaje0525.edgemaxcdn.org/live/becksd1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE BECK
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/becksd2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE HUDA
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://gaje0525.edgemaxcdn.org/live/hudasd1/playlist.m3u8
