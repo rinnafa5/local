@@ -147,11 +147,6 @@ https://raw.githubusercontent.com/rinnafa5/local/main/tw2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",TW3
 https://raw.githubusercontent.com/rinnafa5/local/main/tw3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",VARZESH
-https://raw.githubusercontent.com/rinnafa5/local/main/twvarzesh.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",IRIB3
-https://raw.githubusercontent.com/rinnafa5/local/main/twtv3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",5 SPORTS
 https://raw.githubusercontent.com/rinnafa5/local/main/sport5.m3u8
@@ -207,11 +202,6 @@ https://stream.live12.ir/hls2/varzeshtest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",IRIB TV3 HD
 https://stream.live12.ir/hls2/tv3test.m3u8
 
-#EXTINF:-31 tvg-id="" tvg-logo="" group-title="TELESPORT",VARZESH TW
-https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
-
-#EXTINF:-31 tvg-id="" tvg-logo="" group-title="TELESPORT",IRIB TV3 TW
-https://ncdn.telewebion.com/tv3/live/playlist.m3u8
 
 
 #EXTINF:-1 group-title="TELESPORT" tvg-id="" tvg-logo="", WOWOW Prime
@@ -588,19 +578,19 @@ https://e111.hellotherepadawan.org/v5/4y3VUjnOUfHsJYh8Rf2Afg/1756822411/0c97fa64
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE KEN
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/kensd1/playlist.m3u8
+https://gaje0525.edgemaxcdn.org/live/kenhd1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE LARUE
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/laruesd1/playlist.m3u8
+https://gaje0525.edgemaxcdn.org/live/laruehd1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE BECK
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/becksd1/playlist.m3u8
+https://gaje0525.edgemaxcdn.org/live/beckhd1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE HUDA
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/hudasd1/playlist.m3u8
+https://gaje0525.edgemaxcdn.org/live/hudahd1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS", EVENT5 BOLA 1 (AKTIF SAAT LIVE)
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
