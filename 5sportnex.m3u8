@@ -162,6 +162,9 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",Bein xtra esp
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="TELESPORT",Turkmenistan sports
+https://alpha.tv.online.tm/legacyhls/ch004.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",SPORT ITALIA
 https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
 
@@ -177,6 +180,12 @@ https://stream.live12.ir/hls2/varzeshtest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",IRIB TV3 HD
 https://stream.live12.ir/hls2/tv3test.m3u8
 
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="TELESPORT",VARZESH TW
+https://ncdn.telewebion.com/varzesh/live/playlist.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="TELESPORT",IRIB TV3 TW
+https://ncdn.telewebion.com/tv3/live/playlist.m3u8
+
 
 #EXTINF:-1 group-title="TELESPORT" tvg-id="" tvg-logo="", WOWOW Prime
 https://mt01.utako.moe/wprime/index.m3u8
@@ -189,6 +198,9 @@ https://mt01.utako.moe/wlive/index.m3u8
 
 #EXTINF:-1 group-title="TELESPORT" tvg-id="" tvg-logo="",CBS GOLAZO
 https://da.gd/golajo
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="TELESPORT",CBS HQ
+https://da.gd/cebehq
 
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",Real Madrid Tv
 https://raw.githubusercontent.com/rinnafa5/local/main/madrid.m3u8
@@ -222,6 +234,72 @@ https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SONYSPORT",sonyten5
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+#EXTINF:-28 tvg-id="" tvg-logo="" group-title="ASEAN",RTB ANEKA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#EXTINF:-28 tvg-id="" tvg-logo="" group-title="ASEAN",RTB SUKMA
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+
+#EXTINF:-28 tvg-id="" tvg-logo="" group-title="ASEAN",RTB GO LIVE
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-28 tvg-id="" tvg-logo="" group-title="ASEAN",DUNIA SINEMA
+https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+
+#EXTINF:-28 tvg-id="" tvg-logo="" group-title="ASEAN",ASTRO AWANI
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-28 tvg-id="" tvg-logo="" group-title="ASEAN", RTM LIVE
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8
+
+#EXTINF:-28 tvg-id="" tvg-logo="" group-title="ASEAN",Rasmey Hang Meas HDTV
+http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ASEAN",Hang Meas HDTV
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Hang Meas NOW UHDTV
+http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Hang Meas MELODY UHDTV
+http://abclive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Hang Meas PLAY UHDTV
+http://abclive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Hang Meas CINE UHDTV
+http://abclive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Hang Meas MALL HDTV
+http://abclive.malisresidences.com:1935/snappee/_definst_/smil:snappee.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Hang Meas GO UHDTV
+http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Hang Meas BOXING UHDTV
+http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/playlist.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",BTV NEWS
+https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Mono29
+https://monomax-uiripn.cdn.byteark.com/plain/th/480p/index.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",True4u
+https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Mcot30
+https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",One31
+https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Tsport7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Pptv
+https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="THAITV ",ziggo1
 https://e106.hellotherepadawan.org/v5/CWWI6bZS_n7oIKoTQgLZkw/1756886427/21eb375cf969f68b14472a41fdc88044/ssImd7JvBFlWwKbE5I2N9A/1756897107/live/vx-origin/nl-ziggosport1_480/chunks.m3u8
