@@ -242,7 +242,7 @@ https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONYTEN1
-https://dish.slivcdn.com/hls/live/live/2011747/TEN1HD/master.m3u8
+https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master_1300.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONYTEN5
 https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
