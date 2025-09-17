@@ -126,6 +126,34 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",bahrain2
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",MBC MASR
+https://raw.githubusercontent.com/rinnafa5/local/main/masr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Arradiya3 int
+https://cdn.live.easybroadcast.io/abr_corp/73_arryadia-tnt_zcmwjdc/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Arradiya3
+https://cdn.live.easybroadcast.io/ts_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Tamazight8
+https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",TW1
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport1/live/480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",TW2
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/sport2/live/480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",TW3
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1103.telewebion.com/ek/sport3/live/480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",VARZESH
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/varzesh/live/480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",IRIB3
+https://hidden-mud-9dcf.nhhwkiszzzvcuojxdo.workers.dev/?url=https://live-azd1109.telewebion.com/ek/tv3/live/480p/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",5 SPORTS
 https://raw.githubusercontent.com/rinnafa5/local/main/sport5.m3u8
 
