@@ -238,20 +238,20 @@ https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",Teledeporte
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONYTEN2
-https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONY SPORTS 2
+https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master_900.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONYTEN1
-https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master_1300.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONY SPORTS 1
+https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master_900.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONYTEN5
-https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONY SPORTS 5
+https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master_900.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONYTEN3
-https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONY SPORTS 3
+https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master_900.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONYTEN4
-https://dish.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONY SPORTS 4
+https://dish.slivcdn.com/hls/live/2020589/ten4hd/master_900.m3u8
 
 
 
