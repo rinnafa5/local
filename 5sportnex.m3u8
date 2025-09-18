@@ -239,19 +239,19 @@ https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONY SPORTS 2
-https://dish.slivcdn.com/hls/live/2020434/TEN2HD/master_900.m3u8
+https://raw.githubusercontent.com/rinnafa5/local/main/sony2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONY SPORTS 1
-https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master_900.m3u8
+https://raw.githubusercontent.com/rinnafa5/local/main/sony1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONY SPORTS 5
-https://dish.slivcdn.com/hls/live/2020593/SONYSIXHD/master_900.m3u8
+https://raw.githubusercontent.com/rinnafa5/local/main/sony5.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONY SPORTS 3
-https://dish.slivcdn.com/hls/live/2020591/TEN3HD/master_900.m3u8
+https://raw.githubusercontent.com/rinnafa5/local/main/sony3.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONY SPORTS 4
-https://dish.slivcdn.com/hls/live/2020589/ten4hd/master_900.m3u8
+https://raw.githubusercontent.com/rinnafa5/local/main/sony4.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONY TEN 1
 https://dish.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
