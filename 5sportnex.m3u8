@@ -238,11 +238,6 @@ https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",Teledeporte
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SPS1
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselect1/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SPS2
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselect2/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONY SPORTS 2
 https://raw.githubusercontent.com/rinnafa5/local/main/sony2.m3u8
