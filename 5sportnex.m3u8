@@ -163,7 +163,6 @@ https://raw.githubusercontent.com/rinnafa5/local/main/tw2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",TW SPORT3
 https://raw.githubusercontent.com/rinnafa5/local/main/tw3.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",solh sports
 https://raw.githubusercontent.com/rinnafa5/local/main/solh.m3u8
 
@@ -195,24 +194,14 @@ https://bit.ly/48XfUCc?profile=inspirationFreetv.m3u8
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ads_pod_type=playerpage_midroll&ads_env=prod&ads_ppid=&ads_rtvid=271861&ads_streaming_id=4f185419-74f6-4564-8ea9-4cdc60746e2f&ads_amagi_channel=781&ads_device_type=web&ads_device_model=&ads_device_year=&ads_player_width=&ads_rtv_content_language=ita&ads_market=it&ads_rtv_content_id=3741&ads_device_make=&ads_user_type=visitor&ads_content_classification=6&ads_gdpr_consent=&ads_device_lmt=1&ads_player_height=&uid=1gnmqg5gu-qsvc-bfo-gaq3-3dgjgexshpe/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",PERSIANA HD
-https://stream.live12.ir/hls2/persiana.m3u8
+https://af.ayassport.ir/hls2/persiana.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT", VARZESH HD
-https://stream.live12.ir/hls2/varzeshtest.m3u8
+https://af.ayassport.ir/hls2/varzeshtest.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",IRIB TV3 HD
-https://stream.live12.ir/hls2/tv3test.m3u8
+https://af.ayassport.ir/hls2/tv3test.m3u8
 
-
-
-#EXTINF:-1 group-title="TELESPORT" tvg-id="" tvg-logo="", WOWOW Prime
-https://mt01.utako.moe/wprime/index.m3u8
-
-#EXTINF:-1 group-title="TELESPORT" tvg-id="" tvg-logo="",WOWOW Cinema
-https://mt01.utako.moe/wcinema/index.m3u8
-
-#EXTINF:-1 group-title="TELESPORT" tvg-id="" tvg-logo="",WOWOW Live
-https://mt01.utako.moe/wlive/index.m3u8
 
 #EXTINF:-1 group-title="TELESPORT" tvg-id="" tvg-logo="",CBS GOLAZO
 https://da.gd/golajo
@@ -280,6 +269,9 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-28 tvg-id="" tvg-logo="" group-title="ASEAN",DUNIA SINEMA
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+
+#EXTINF:-28 tvg-id="" tvg-logo="" group-title="ASEAN",TVS+
+https://stream2.smg.my/live/tvsplus_360p878kbs/index.m3u8
 
 #EXTINF:-28 tvg-id="" tvg-logo="" group-title="ASEAN",ASTRO AWANI
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
