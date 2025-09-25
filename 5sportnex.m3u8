@@ -236,7 +236,7 @@ https://cors-proxy.cooks.fyi/163.172.59.25/crc1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",Euro1
 https://cors-proxy.cooks.fyi/http://185.189.225.157/EuroSport1/index.m3u8
 
-EXTINF:-1 tvg-logo="" group-title="TELESPORT",Euro2
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",Euro2
 https://cors-proxy.cooks.fyi/http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONY SPORTS 2
