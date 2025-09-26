@@ -1,32 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",mbc2
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",caze
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",glo1
-http://hls1.sua.tv/live/globospsd/s.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",glo2
-http://hls1.sua.tv/live/globosphd/s.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",glo3
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",cg2
-http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",cg1
-http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",Cgsat
-http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
-
-
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",MOJI
 https://raw.githubusercontent.com/rinnafa5/local/main/moji.m3u8
 
