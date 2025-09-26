@@ -129,14 +129,6 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",MBC MASR
 https://raw.githubusercontent.com/rinnafa5/local/main/masr.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Arradiya3 int
-https://cdn.live.easybroadcast.io/abr_corp/73_arryadia-tnt_zcmwjdc/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Arradiya3
-https://cdn.live.easybroadcast.io/ts_corp/73_arryadia_k2tgcj0/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Tamazight8
-https://cdn.live.easybroadcast.io/ts_corp/73_tamazight_tccybxt/playlist_dvr.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",5 SPORTS
@@ -155,7 +147,7 @@ https://lenz.splus.ir/PLTV/88888888/224/3221226868/4.m3u8
 https://lenz.splus.ir/PLTV/88888888/224/3221226845/4.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",TW SPORT1
-https://raw.githubusercontent.com/rinnafa5/local/main/tw1.m3u8
+https://live-azd1109.telewebion.com/ek/sport1/live/480p/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",TW SPORT2
 https://raw.githubusercontent.com/rinnafa5/local/main/tw2.m3u8
