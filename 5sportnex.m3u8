@@ -315,17 +315,21 @@ https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 #EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Mono29
 https://monomax-uiripn.cdn.byteark.com/plain/th/480p/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ASEAN",THAIRATH HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+
 #EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",True4u
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
+
+#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Tsport7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
+
 
 #EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Mcot30
 https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
 
 #EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",One31
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
-
-#EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Tsport7
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
 
 #EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Pptv
 https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
