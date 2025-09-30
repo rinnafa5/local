@@ -75,16 +75,19 @@ https://raw.githubusercontent.com/rinnafa5/local/main/kplus.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",DENS PLAY
 https://raw.githubusercontent.com/rinnafa5/local/main/dplay.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",DFC
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",DENS FOOD CHANNEL
 https://raw.githubusercontent.com/rinnafa5/local/main/dfc.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",DENS SHOWBIZ
 https://raw.githubusercontent.com/rinnafa5/local/main/showbiz.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",DENS LIFESTYLE
+https://raw.githubusercontent.com/rinnafa5/local/main/dlife.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",ANIPLUS
 https://raw.githubusercontent.com/rinnafa5/local/main/aniplus.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",WSPORT
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",MOTOR VISION+
 https://raw.githubusercontent.com/rinnafa5/local/main/wsport.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",JAKTV
