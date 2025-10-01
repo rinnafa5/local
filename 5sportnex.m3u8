@@ -132,22 +132,8 @@ https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",MBC MASR
 https://raw.githubusercontent.com/rinnafa5/local/main/masr.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",TCS+
-https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",2 SV
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",6 SV
-https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",12 SV
-https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",VTV HN
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",BOLIVISION
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
@@ -158,11 +144,11 @@ https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",6 CR
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",G HD PR
+https://live-evg20.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",ATV PR
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",ATV2 PR
-https://live-evg20.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",ATV+ PR
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
@@ -170,11 +156,9 @@ https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",ATV SUR PR
 https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",TEST 1
-https://live20.bozztv.com/akamaissh101/ssh101/c2jultenok/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",TEST 2
-https://amg01006-abs-cbn-kapcha-abscbn-abscbnono-ad-4e.amagi.tv/playlist/amg01006-abs-cbn-kapcha-hls-abscbnono/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",5 SPORTS
