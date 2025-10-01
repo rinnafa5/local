@@ -51,7 +51,7 @@ https://raw.githubusercontent.com/rinnafa5/local/main/btv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",TVRI
 https://raw.githubusercontent.com/rinnafa5/local/main/tvridens.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",TVRI SPORT
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",TVRI SPORTS
 https://raw.githubusercontent.com/rinnafa5/local/main/tvrisport.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",RTV
@@ -90,12 +90,6 @@ https://raw.githubusercontent.com/rinnafa5/local/main/aniplus.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",MOTOR VISION+
 https://raw.githubusercontent.com/rinnafa5/local/main/wsport.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",TVRI NASIONAL HD
-https://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",TVRI SPORTS HD
-http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8h.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",JAKTV
 https://raw.githubusercontent.com/rinnafa5/local/main/jak.m3u8
 
@@ -104,6 +98,15 @@ https://raw.githubusercontent.com/rinnafa5/local/main/magna.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",RODJA
 https://raw.githubusercontent.com/rinnafa5/local/main/rodja.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",TVRI NASIONAL HD
+https://raw.githubusercontent.com/rinnafa5/local/main/tvrinasionalhd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",TVRI SPORTS HD
+https://raw.githubusercontent.com/rinnafa5/local/main/tvrisportshd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",TVRI WORLD HD
+https://raw.githubusercontent.com/rinnafa5/local/main/tvriworldhd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",SPORTSTARS 2 HD
 https://live-channel1-cdn.visionplus.id/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
