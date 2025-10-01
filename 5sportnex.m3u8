@@ -100,7 +100,7 @@ https://raw.githubusercontent.com/rinnafa5/local/main/magna.m3u8
 https://raw.githubusercontent.com/rinnafa5/local/main/rodja.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",TVRI NASIONAL HD
-https://raw.githubusercontent.com/rinnafa5/local/main/tvrinasionalhd.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",TVRI SPORTS HD
 https://raw.githubusercontent.com/rinnafa5/local/main/tvrisportshd.m3u8
