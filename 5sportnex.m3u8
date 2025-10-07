@@ -372,6 +372,42 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
 #EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Pptv
 https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN1 SD
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN2 SD
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN3 SD
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs3.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN4 SD
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs4.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN5 SD
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs5.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN6 SD
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs6.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN7 SD
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs7.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN8 SD
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs8.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN9 SD
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bs9.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN1 ENG
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bseng1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN2 ENG
+https://raw.githubusercontent.com/Cutsiffa/pl/refs/heads/main/Bseng1.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN1
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/bein1.m3u8
 
