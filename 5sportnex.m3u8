@@ -347,7 +347,6 @@ http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/playlist.m
 
 #EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Hang Meas BOXING UHDTV
 http://abclive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/playlist.m3u8
-
 #EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",BTV NEWS
 https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
 
@@ -373,263 +372,78 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
 #EXTINF:-31 tvg-id="" tvg-logo="" group-title="ASEAN",Pptv
 https://edge2a.v2h-cdn.com/hd_pptv/hd_pptv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",ziggo1
-https://e106.hellotherepadawan.org/v5/CWWI6bZS_n7oIKoTQgLZkw/1756886427/21eb375cf969f68b14472a41fdc88044/ssImd7JvBFlWwKbE5I2N9A/1756897107/live/vx-origin/nl-ziggosport1_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN1
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/bein1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",ziggo2
-https://e108.hellotherepadawan.org/v5/8UQyJ-YYh9oKs4fS0MrXGg/1756886455/20f9f60269f72fd0dba5fd61cbfd8e69/bN0rlXlvE12Ez6piMJLRKw/1756897135/live/vx-origin/nl-ziggosport2_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN2
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/bein2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",ziggo3
-https://e113.hellotherepadawan.org/v5/EglQqQPpEsxyDXCY1UJ3Fw/1756886490/21eb375cf969f68b14472a41fdc88044/43Gcd306-QyRky59W4xMZQ/1756897170/live/vx-origin/nl-ziggosport3_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN3
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/bein3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",ziggo4
-https://e113.hellotherepadawan.org/v5/VFREzehVz1avP92G9LGnBw/1756886530/20f9f60269f72fd0dba5fd61cbfd8e69/nbON9hV9GwGt8Ac1t1D7fA/1756897210/live/vx-origin/nl-ziggosport4_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN4
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/bein4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",ziggo5
-https://s8a-c.hellotherepadawan.org:9309/v5/UajaCnLR_RSsZ70kMdU2yA/1756886551/20f9f60269f72fd0dba5fd61cbfd8e69/Mav1vxck74tWM0CQCTo6Rg/1756897231/live/vx-origin/nl-ziggosport5_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN5
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/bein5.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",ziggo6
-https://e112.hellotherepadawan.org/v5/U_RsVETWbH5Vo8xS2mLqZA/1756886572/20f9f60269f72fd0dba5fd61cbfd8e69/Wh5zDE1Elfb2Ht77Er_kQA/1756897252/live/vx-origin/nl-ziggosport6_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN6
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/bein6.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Bein1 th
-https://la1.hellotherepadawan.org:9312/v5/fM4dnBeLyQwsrQqAzjS3vw/1756822640/eb79b2290aed13cdd693ebbf408b324d/a4DDoRw2E70c3k1bsvfz8Q/1756833320/live/vx-origin/th-bein1_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN7
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/bein7.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",bein2 th
-https://e112.hellotherepadawan.org/v5/l-pVAJlxBJ9N9Jitien3qQ/1756822749/eb79b2290aed13cdd693ebbf408b324d/icT3rYYG7tXTspmZ2EZC2g/1756833429/live/vx-origin/th-bein2_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN8
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/bein8.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ", bein3 th
-https://s8x.hellotherepadawan.org:9313/v5/zDuwQKRoseJxO0sHRhx7SQ/1756822910/eb79b2290aed13cdd693ebbf408b324d/jBFPIbnJqAG7zJaLfMDxJQ/1756833590/live/vx-origin/th-bein3_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN9
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/bein9.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Bein1 backup
-https://la1.hellotherepadawan.org:9314/v5/j9zjl9OHjsgty3SU1ikLGA/1756822575/0c97fa64d36e19348bb46d25cd9d737e/NPx600L91oyC8-Hi5f0SMw/1756833255/live/dx-origin/dooball66-bein1x_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN10
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/bein10.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Bein2 backup
-https://e103.hellotherepadawan.org/v5/7NcKnj_DK5Sf9zWk0Uyqtw/1756822684/0c97fa64d36e19348bb46d25cd9d737e/HU5wWc05pTLIQU5KtoRu7g/1756833364/live/dx-origin/dooball66-bein2x_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN11
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/bein11.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Bein3 backup
-https://e101.hellotherepadawan.org/v5/wQG0RoZP713VxZLAUxLSMw/1756707158/eb79b2290aed13cdd693ebbf408b324d/fwGoeBhiFsjxDHtZZIFl0g/1756717838/live/dx-origin/dooball66-bein3x_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",BEIN12
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/bein12.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",espn1
-https://e106.hellotherepadawan.org/v5/6p_4TgjYVXpaj0zKNCqbuQ/1756886152/20f9f60269f72fd0dba5fd61cbfd8e69/VuOUy68Bj5kHjhx3r8mqOQ/1756896832/live/vx-origin/nl-espn1_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",CANAL1
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",espn2
-https://s2b-c.hellotherepadawan.org:9306/v5/0vzvYgU1V7VZPwEjTVieng/1756886182/21eb375cf969f68b14472a41fdc88044/qZ38KRO9k-knzNlP8kREKQ/1756896862/live/vx-origin/nl-espn2_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",CANAL2
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",espn3
-https://e102.hellotherepadawan.org/v5/E8LiYvPO8a0j6OKswxGfXQ/1756886208/20f9f60269f72fd0dba5fd61cbfd8e69/7WaPBmMijfg-VTS5u8CrJg/1756896888/live/vx-origin/nl-espn3_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",CANAL3
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",espn4
-https://e109.hellotherepadawan.org/v5/XB4p6OtNIoNomqEjOm8gaA/1756886255/21eb375cf969f68b14472a41fdc88044/0E1q2WB6Tq4zG4ZoDgtjiw/1756896935/live/vx-origin/nl-espn4_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",CANAL4
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/canalsport4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Digi1
-https://e102.hellotherepadawan.org/v5/RK67ilWj1XkAqYxpzlyYQw/1756707955/0c97fa64d36e19348bb46d25cd9d737e/N6D9zgW4aeJpKeKwX4cQFw/1756718635/live/vx-origin/ro-digisport1_480/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Digi3
-https://la4.hellotherepadawan.org:9302/v5/VYNr4EXt2tEaape69l4C_Q/1756707978/eb79b2290aed13cdd693ebbf408b324d/R1GSOAp3gGKcIcciWAfQ2w/1756718658/live/vx-origin/ro-digisport3_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",ESPN1
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/espn1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Digi4
-https://la2.hellotherepadawan.org:9309/v5/DobDyDEAPI3o0Kpdlh1_fA/1756707999/0c97fa64d36e19348bb46d25cd9d737e/dGOBvQC2WWyfX30mZEkqLQ/1756718679/live/vx-origin/ro-digisport4_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",ESPN2
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/espn2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ", spo1
-https://e101.hellotherepadawan.org/v5/barDFsbTqiVHB9S7KbLKKg/1756823726/eb79b2290aed13cdd693ebbf408b324d/MWW_UkRCuf01B_BQ4M1YWQ/1756834406/live/vx-origin/th-spotv1_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",ESPN3
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/espn3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ", spo2
-https://la2.hellotherepadawan.org:9313/v5/qFsciV0My_Cz9T18uzhUig/1756823824/eb79b2290aed13cdd693ebbf408b324d/DocK-HC0LzsesV8omx8KNQ/1756834504/live/vx-origin/th-spotv2_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",ESPN4
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/espn4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Sk1
-https://e111.hellotherepadawan.org/v5/DpmIxHLk6LZKfgA6w6qL6g/1756885291/21eb375cf969f68b14472a41fdc88044/EfmYo56TVTsUfFX9TFz-ow/1756895971/live/vx-origin/rs-sportklub1_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",NOVA1
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/novasport1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Sk2
-https://e102.hellotherepadawan.org/v5/EKiZY9dDiTko6y1rBuwl8A/1756885316/21eb375cf969f68b14472a41fdc88044/mu2vPlrZ9gUFydfu-F8F3g/1756895996/live/vx-origin/rs-sportklub2_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",NOVA2
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/novasport2.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Sk3
-https://e102.hellotherepadawan.org/v5/gPTw5UzOrco0ecwtCGTuXQ/1756885334/21eb375cf969f68b14472a41fdc88044/6S-96c4fm4aaWHzPgHrI0g/1756896014/live/vx-origin/rs-sportklub3_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",NOVA3
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/novasport3.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",B1
-https://e107.hellotherepadawan.org/v5/GOZyMzqoV76496CbFuUQMw/1756888256/21eb375cf969f68b14472a41fdc88044/4rd99Sd0tQOQ6XCo7_TtVA/1756898936/live/vx-origin/hd-bein1_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",B2
-https://e113.hellotherepadawan.org/v5/-fx_Zx_pK3Ckqfz25Lhqug/1756888520/21eb375cf969f68b14472a41fdc88044/SmRczGTT5aSAgWNoSNDQLA/1756899200/live/vx-origin/hd-bein2_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",B3
-https://e103.hellotherepadawan.org/v5/E3-RxoyXJyKsm-qXRZY8xA/1756888559/20f9f60269f72fd0dba5fd61cbfd8e69/mLQ5ZWiyfs5NCATHAglXMA/1756899239/live/vx-origin/hd-bein3_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",B4
-https://e106.hellotherepadawan.org/v5/r2x6TUsK_3yILRmq2AAEEQ/1756888587/21eb375cf969f68b14472a41fdc88044/2IXe4e7AlC9eVNvzIB28gg/1756899267/live/vx-origin/hd-bein4_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",B5
-https://e107.hellotherepadawan.org/v5/vsZHZkRSU6XrHeG48HGmwQ/1756888620/21eb375cf969f68b14472a41fdc88044/H1JvCojS-iQwjSxqo8__Wg/1756899300/live/vx-origin/hd-bein5_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",b6
-https://e111.hellotherepadawan.org/v5/jdIHjLXfEU47ZR1IPl846Q/1756888647/21eb375cf969f68b14472a41fdc88044/d-zj58svUz-zLOXi5kcg8Q/1756899327/live/vx-origin/hd-bein6_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",b7
-https://la1.hellotherepadawan.org:9309/v5/LmCU-BhsK7ZUsj48UUEEmg/1756888685/20f9f60269f72fd0dba5fd61cbfd8e69/V98I5Qjb-sZ1wy0P8y4xcA/1756899365/live/vx-origin/hd-bein7_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",b8
-https://e107.hellotherepadawan.org/v5/2xakbolxw_KrP9CpyBq5Mg/1756888713/21eb375cf969f68b14472a41fdc88044/1gWWg1jitBEhYiWgGUsU8g/1756899393/live/vx-origin/hd-bein8_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",b9
-https://la3.hellotherepadawan.org:9311/v5/3fv0YU-v1FcrfHHCYlYujg/1756888742/20f9f60269f72fd0dba5fd61cbfd8e69/72wNF-R8GirdJMmZ0XFhgg/1756899422/live/vx-origin/hd-bein9_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",b10
-https://e101.hellotherepadawan.org/v5/6XHz32cEo69Zs3VFnum51A/1756888773/21eb375cf969f68b14472a41fdc88044/w-KweCWnbEVGqzNC0l9Mag/1756899453/live/vx-origin/hd-bein10_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",b11
-https://e108.hellotherepadawan.org/v5/LygDKxfzEfYCZqEwMLATCw/1756888803/20f9f60269f72fd0dba5fd61cbfd8e69/PKGDlBuzszedCyC8Y77RPA/1756899483/live/vx-origin/hd-bein11_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",B12
-https://e114.hellotherepadawan.org/v5/XholFvMrrLQZ9524Nfo-ng/1756888832/21eb375cf969f68b14472a41fdc88044/k8tqDwIeTrUYZ4892BNRYg/1756899512/live/vx-origin/hd-bein12_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",canal1
-https://e108.hellotherepadawan.org/v5/ZAPQAIPGss_YZSBdAUGEbg/1756887404/20f9f60269f72fd0dba5fd61cbfd8e69/FB5RlZT_HlREKwYS4C-cow/1756898084/live/vx-origin/pl-canalsport1_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",canal2
-https://s3a-c.hellotherepadawan.org:9309/v5/u5JrCdGdaeUG6myJIw24DQ/1756887433/20f9f60269f72fd0dba5fd61cbfd8e69/2HKB8Ofe2Yf2C2_u62726A/1756898113/live/vx-origin/pl-canalsport2_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",canal3
-https://e107.hellotherepadawan.org/v5/q3WfwJy-Jo315vlg0rrGLA/1756887461/21eb375cf969f68b14472a41fdc88044/t_EMFwif2o-funXbkyb2kg/1756898141/live/vx-origin/pl-canalsport3_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",canal4
-https://la3.hellotherepadawan.org:9314/v5/JVaOXHDr9FDs3mswndtguw/1756887487/20f9f60269f72fd0dba5fd61cbfd8e69/LwjXo8z-L02K5QdAO5vG2g/1756898167/live/vx-origin/pl-canalsport4_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Pol1
-https://e114.hellotherepadawan.org/v5/GMwot3a58s3EULXD9YPMvA/1756887716/21eb375cf969f68b14472a41fdc88044/XqsLk1ugcf8O-BmSFng_1A/1756898396/live/vx-origin/pl-polsatsportpremium1_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Pol2
-https://e108.hellotherepadawan.org/v5/etbv0aIaMCNRbNb2GfHssA/1756887747/20f9f60269f72fd0dba5fd61cbfd8e69/LzdSJ_81H7NV1WBxf4yjsg/1756898427/live/vx-origin/pl-polsatsportpremium2_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Pol4
-https://e107.hellotherepadawan.org/v5/OhVyl2IyDo5lv4mIA_7N4w/1756887806/21eb375cf969f68b14472a41fdc88044/IC45GezIeQ42dKtkog0INg/1756898486/live/vx-origin/pl-polsatsportpremium4_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Pol5
-https://e109.hellotherepadawan.org/v5/HoTyjZ2uY3nRQlNVoGG7Ww/1756887845/20f9f60269f72fd0dba5fd61cbfd8e69/9JKt2sZiXr2Ld30QRQcM0w/1756898525/live/vx-origin/pl-polsatsportpremium5_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Pol6
-https://e108.hellotherepadawan.org/v5/5yYuIEp3qLfdT5a-0WGGWA/1756887886/21eb375cf969f68b14472a41fdc88044/VOPXWrlTw7p_3AciCN7gKg/1756898566/live/vx-origin/pl-polsatsportpremium6_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Nova1
-https://e114.hellotherepadawan.org/v5/eF8Zm7cfHGSzJQGnyyWyBg/1756885480/20f9f60269f72fd0dba5fd61cbfd8e69/3fLpFKEn62LJAda3P6FY7g/1756896160/live/vx-origin/cz-novasport1_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Nova2
-https://e107.hellotherepadawan.org/v5/IqfN6eYKfqXPonL8nYzF9w/1756885512/20f9f60269f72fd0dba5fd61cbfd8e69/ZMEq7aSqeV4BYHFNSBt6Kw/1756896192/live/vx-origin/cz-novasport2_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Nova3
-https://e113.hellotherepadawan.org/v5/zjA6KYES2RjIb5yF0-3pjw/1756885535/20f9f60269f72fd0dba5fd61cbfd8e69/yMl2f2NaulJV4yczutbYDQ/1756896215/live/vx-origin/cz-novasport3_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Nova5
-https://e114.hellotherepadawan.org/v5/Bu8g4NDs23svnXGriRleiQ/1756885567/21eb375cf969f68b14472a41fdc88044/56wwpF8AkNBJ6S8SOrAmCw/1756896247/live/vx-origin/cz-novasport5_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ", true1
-https://e112.hellotherepadawan.org/v5/QeJsK2DU-S4V_mOSahVj_w/1756823038/eb79b2290aed13cdd693ebbf408b324d/gRVQmCOEXlAEmi66BcYSiw/1756833718/live/vx-origin/th-tsporthd1_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ", true2
-https://e102.hellotherepadawan.org/v5/dWSl9jvZfQbZD2cTEMpNAQ/1756823163/eb79b2290aed13cdd693ebbf408b324d/ccreD7DsPJQCbUnEpyk4KA/1756833843/live/vx-origin/th-tsporthd2_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ", true3
-https://la5.hellotherepadawan.org:9307/v5/Gz3Lj5ayScMEwoEW5Nh7Fg/1756823275/eb79b2290aed13cdd693ebbf408b324d/TK8zxoKwE2_45gi6Xml0Kw/1756833955/live/vx-origin/th-tsporthd3_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ", true4
-https://e103.hellotherepadawan.org/v5/akGPF8_Bpyq002olEos6dg/1756823387/eb79b2290aed13cdd693ebbf408b324d/mkG2iehRE5oGj5A2FIFYIQ/1756834067/live/vx-origin/th-tsporthd4_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ", true5
-https://e109.hellotherepadawan.org/v5/WXrims3H6sA3asMFECiIFw/1756823504/eb79b2290aed13cdd693ebbf408b324d/IAvfT6KgXgOzsta90-d7Kw/1756834184/live/vx-origin/th-tsport5_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ", true7
-https://e112.hellotherepadawan.org/v5/j1fS6IvU-9S90Shg9mNHlw/1756823606/eb79b2290aed13cdd693ebbf408b324d/kVqWZlXdXnGWwXdkKA3p0g/1756834286/live/dx-origin/th-tsport7_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ", true7 backup
-https://la3.hellotherepadawan.org:9305/v5/ulZmQIpAfX6L1nAa_pAljg/1756823554/0c97fa64d36e19348bb46d25cd9d737e/1jQpif-gx8BqtgwqHDVhIA/1756834234/live/vx-origin/dooball66-tsport7_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ", tsport7
-https://e101.hellotherepadawan.org/v5/MErwdVYZG0_opEvCd5rDeQ/1756824005/0c97fa64d36e19348bb46d25cd9d737e/cX6_18U-GNqcDwD75pCVZA/1756834685/live/dx-origin/sd-tsports_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",  astro+
-https://la2.hellotherepadawan.org:9308/v5/zyDXfFI3lN86ENMBw-Wl6w/1756707695/0c97fa64d36e19348bb46d25cd9d737e/1gMEYWXSO-QAe39B6i1eCA/1756718375/live/vx-origin/my-astro-sportsplus_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",FS 1
-https://e114.hellotherepadawan.org/v5/Sxey7dWyn-Io0QyMzpacGQ/1756708113/eb79b2290aed13cdd693ebbf408b324d/1_-tdTUEjTUHtl_nxzSLIw/1756718793/live/lx-origin/us-foxsports1_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",FS2
-https://e112.hellotherepadawan.org/v5/9u5YgWO4E1kRUoEubReuSA/1756708139/0c97fa64d36e19348bb46d25cd9d737e/ok6cykw405vAxN7M31CPEQ/1756718819/live/lx-origin/us-foxsports2_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ", sky football
-https://la3.hellotherepadawan.org:9303/v5/4h3losaOAlRL38o4cae_gA/1756889591/21eb375cf969f68b14472a41fdc88044/HLyW7gbJjlnoyXl-MMZSrQ/1756900271/live/lx-origin/uk-skysports-football_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",sky arena
-https://e111.hellotherepadawan.org/v5/MiNDs6Nx_kG6MQn3J7HqPg/1756889834/21eb375cf969f68b14472a41fdc88044/Vq7sQoUsrYiELszuo_Wwzw/1756900514/live/lx-origin/uk-skysports-arena_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",sky epl
-https://e101.hellotherepadawan.org/v5/yGmSvYisgXc8TARcwol_FA/1756889526/21eb375cf969f68b14472a41fdc88044/v6u8ByhlXWOwghfGPu5yNA/1756900206/live/lx-origin/uk-skysports-epl_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",sky event
-https://la4.hellotherepadawan.org:9302/v5/rpTofv5bLdOsQL8RKopv6Q/1756889690/21eb375cf969f68b14472a41fdc88044/PXzdSBh9HL8rj6rM6xUHkQ/1756900370/live/lx-origin/uk-skysports-mainevent_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",sky mix
-https://s2b-c.hellotherepadawan.org:9309/v5/CjiTSOiYaURTQWS7NZg35w/1756889720/21eb375cf969f68b14472a41fdc88044/JmgxYah2fsH2zxXe5p-OQg/1756900400/live/lx-origin/uk-skysports-mix_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",sky action
-https://e102.hellotherepadawan.org/v5/H3gY3SJQ1UxF94Yh8zXoAg/1756889337/21eb375cf969f68b14472a41fdc88044/wpd3kfkDmagPVyY9KtQo_Q/1756900017/live/lx-origin/uk-skysports-action_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",sky+
-https://e110.hellotherepadawan.org/v5/6pmAmWdcwO1cu82cxliP5Q/1756889794/21eb375cf969f68b14472a41fdc88044/e1zjgx3-ero_wsIsGSs89g/1756900474/live/lx-origin/uk-skysports-plus_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",sky8
-https://e110.hellotherepadawan.org/v5/WT3NG0yGVs0xvHwKi5Bf0w/1756887044/21eb375cf969f68b14472a41fdc88044/0NSwEu6F9_Oam_bbMRtz2Q/1756897724/live/vx-origin/nz-skysport8_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",sky9
-https://e109.hellotherepadawan.org/v5/af88-P_TZ0Cl59JABakpJg/1756887077/21eb375cf969f68b14472a41fdc88044/GKQ5fnc1UCBOtQ0fEcIgUw/1756897757/live/vx-origin/nz-skysport9_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",s2
-https://la3.hellotherepadawan.org:9303/v5/QOEl7l-WT2Y_JIizsQ3uZg/1756884061/20f9f60269f72fd0dba5fd61cbfd8e69/zhlbvh4qQEV6cxqsfQiUog/1756894741/live/vx-origin/al-supersports2_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",s3
-https://e101.hellotherepadawan.org/v5/z-QLMXeCeGCGQmow8OFl3g/1756884223/21eb375cf969f68b14472a41fdc88044/gAbElLIvy9324hiwL8stsw/1756894903/live/vx-origin/al-supersports3_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",s4
-https://e108.hellotherepadawan.org/v5/b3OrszzKe5y7xwY95DAXHA/1756884287/21eb375cf969f68b14472a41fdc88044/SuiqJ5iIRKzliX-WrSCMsg/1756894967/live/vx-origin/al-supersports4_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",s8
-https://e102.hellotherepadawan.org/v5/sTSrKl5HZCSEaDwNHwPscA/1756883945/21eb375cf969f68b14472a41fdc88044/KPykyNdStYPaFxJLt0Y4AA/1756894625/live/lx-origin/af-supersport8_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",s13
-https://e109.hellotherepadawan.org/v5/a2sMJYKW5QeszWzyxQYltQ/1756883880/21eb375cf969f68b14472a41fdc88044/AFAobzeTEzH06qTt_03r4A/1756894560/live/lx-origin/af-supersport13_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",mono1 eng
-https://e108.hellotherepadawan.org/v5/JSBqJ0iahPf2C4hrReyfqQ/1757411779/cbcd5ac14555433b845b8c8784178a94/SEWVUUbBpoNl52iPSy2Jdg/1757422459/live/lx-origin/th-monomax01eng_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",mono2 eng
-https://e108.hellotherepadawan.org/v5/JSBqJ0iahPf2C4hrReyfqQ/1757411779/cbcd5ac14555433b845b8c8784178a94/SEWVUUbBpoNl52iPSy2Jdg/1757422459/live/lx-origin/th-monomax02eng_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",mono3 th
-https://e102.hellotherepadawan.org/v5/SnjRW_a1FNppXECGMwnlwg/1757409898/cbcd5ac14555433b845b8c8784178a94/eUZQ9HmWSP3QEKnIJ8vIMw/1757420578/live/dx-origin/th-monomax03_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",max1
-https://e106.hellotherepadawan.org/v5/AX1qNc_4-4YL9vcRMvVtGw/1756820756/0c97fa64d36e19348bb46d25cd9d737e/GY-NHBu_LuZx9PYjiYoQQA/1756831436/live/dx-origin/dooball66-max01_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Max2
-https://e101.hellotherepadawan.org/v5/qh3QYCpGG1Kjc0guWhaMvg/1756821038/eb79b2290aed13cdd693ebbf408b324d/-rhb83XC_NFQLGWsqErQrg/1756831718/live/dx-origin/dooball66-max02_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Max3
-https://e101.hellotherepadawan.org/v5/Js2e44T6PegsLUihDoKlYQ/1756821250/0c97fa64d36e19348bb46d25cd9d737e/JZVUBpHB-BkZ-9oXcTvszA/1756831930/live/dx-origin/dooball66-max03_480/chunks.m3u
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Max4
-https://e111.hellotherepadawan.org/v5/mLiE--ITPDQqefBU1slcRw/1756821476/eb79b2290aed13cdd693ebbf408b324d/ftUanxgTrc-XWH7Pz7WvdA/1756832156/live/dx-origin/dooball66-max04_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Max5
-https://e113.hellotherepadawan.org/v5/cetkx1DG7bXfsJAI7xQaVQ/1756821673/0c97fa64d36e19348bb46d25cd9d737e/auY4WR8DNWOeC3AY9skTuA/1756832353/live/dx-origin/dooball66-max05_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Max6
-https://e113.hellotherepadawan.org/v5/8iNi8VAmd1LCwms4w3fYKA/1756821902/0c97fa64d36e19348bb46d25cd9d737e/S1ArSgXbkQuz7NkculcAnA/1756832582/live/dx-origin/dooball66-max06_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",max7
-https://e106.hellotherepadawan.org/v5/tjU9Of4VbjVDH-SgphEzqA/1756822102/eb79b2290aed13cdd693ebbf408b324d/gp0vqnqLLW9y8JoXxw5Kjw/1756832782/live/dx-origin/dooball66-max07_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",max8
-https://e112.hellotherepadawan.org/v5/7ZS8BsLzVk9ENBmbmw7WOQ/1756822297/0c97fa64d36e19348bb46d25cd9d737e/pvGsrcB_omasxVvBMKzCjA/1756832977/live/dx-origin/dooball66-max08_480/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="THAITV ",Max9
-https://e111.hellotherepadawan.org/v5/4y3VUjnOUfHsJYh8Rf2Afg/1756822411/0c97fa64d36e19348bb46d25cd9d737e/-vtfWhmiTAuzR_YwkwVH4Q/1756833091/live/dx-origin/th-monomax09_480/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="THAITV",NOVA4
+https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/novasport4.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE KEN
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
