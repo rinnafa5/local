@@ -270,6 +270,34 @@ https://cors-proxy.cooks.fyi/http://185.189.225.157/EuroSport1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",Euro2
 https://cors-proxy.cooks.fyi/http://185.189.225.157/EuroSport2/index.m3u8
 
+#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",fuji next
+https://ca01.utako.moe/fuji_next/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",wowow prime
+https://mt01.utako.moe/wprime/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",wowow live
+https://mt01.utako.moe/wlive/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",wowow cinema
+https://mt01.utako.moe/wcinema/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",ntv
+https://mt01.utako.moe/Nippon_TV/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",tv asahi
+https://mt01.utako.moe/TV_Asahi/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",fuji tv
+https://mt01.utako.moe/Fuji_TV/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="bs_ntv" tvg-logo="",BS NTV
+https://mt01.utako.moe/bsntv/index.m3u8
+
+#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",BS Asahi
+https://mt01.utako.moe/bsasahi/index.m3u8
+
+
 #EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_next" tvg-logo="", Fuji TV Next (Primehome)
 https://raw.githubusercontent.com/rinnafa5/local/main/fujinx.m3u8
 
@@ -305,12 +333,6 @@ https://proxy.utako.moe/ph.php?&isp=1&id=bs06
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="tv_asahi" tvg-logo="",TV Asahi (NSFW) (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=gd06
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_ntv" tvg-logo="",BS NTV
-https://mt01.utako.moe/bsntv/index.m3u8
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",BS Asahi
-https://mt01.utako.moe/bsasahi/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="gaora" tvg-logo="", GAORA SPORTS (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=cs17
