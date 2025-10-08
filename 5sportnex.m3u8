@@ -108,6 +108,10 @@ https://raw.githubusercontent.com/rinnafa5/local/main/tvrisportshd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",TVRI WORLD HD
 https://raw.githubusercontent.com/rinnafa5/local/main/tvriworldhd.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",RCTI+ LIVE
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://liveplus.rctiplus.id/RTMP-IN.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",SPORTSTARS 2 HD
 https://live-channel1-cdn.visionplus.id/out/v1/cee2ab61ee8d4ff19cb0f0bffc37f9b8/index.m3u8
 
