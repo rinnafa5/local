@@ -271,7 +271,7 @@ https://cors-proxy.cooks.fyi/http://185.189.225.157/EuroSport1/index.m3u8
 https://cors-proxy.cooks.fyi/http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_next" tvg-logo="", Fuji TV Next (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs26
+https://raw.githubusercontent.com/rinnafa5/local/main/fujinx.m3u8
 
 #EXTINF:-1 group-title="JAPAN" tvg-id="wowow_prime" tvg-logo="",WOWOW Prime (Primehome)
 https://proxy.utako.moe/ph.php?&isp=1&id=bs12
