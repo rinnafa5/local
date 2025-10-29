@@ -240,8 +240,14 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/amRdirect/ad
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",Teledeporte
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELESPORT",BD SPORTS
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="TELESPORT",BELARUS 5
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="TELESPORT",BELARUS 5 INT
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",PERSIANA HD
 https://af.ayassport.ir/hls2/persiana.m3u8
