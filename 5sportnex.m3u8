@@ -306,8 +306,8 @@ https://iptv.itv.uz/hls/live/t/5KCIDC3X2Gmcxm4bi_8MZQ/e/1762286289/1004/index.m3
 #EXTINF:-1 tvg-id=" group-title="TELESPORT",FUTBOL UZ
 https://iptv.itv.uz/hls/live/t/JhV6OTSNI3B3LZazqARN8w/e/1762286290/1010/index.m3u8?ip=213.183.48.195
 
-#EXTINF:-1 tvg-id=" group-title="TELESPORT",ZO'R UZ
-https://iptv.itv.uz/hls/live/t/uFGcml77aFZWtwfORvkZng/e/1762286290/1011/index.m3u8?ip=213.183.48.195
+#EXTINF:-1 tvg-id=" group-title="TELESPORT",ZO'R
+https://iptv.itv.uz/hls/live/t/wSFqZOpBa2kKirS5s-acwQ/e/1762329600/1016/index.m3u8?ip=213.183.48.195
 
 #EXTINF:-1 tvg-logo="" group-title="PERSIANA",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
