@@ -150,6 +150,11 @@ https://streamer3.qna.org.qa/148164528_live/148164528_296.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Al kass 3
 https://streamer2.qna.org.qa/148161470_live/148161470_296.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id=" group-title="TIMNASDAY",AD SPORTS 1
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="TIMNASDAY",AD SPORTS 2
+https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",MBC MASR
 https://raw.githubusercontent.com/rinnafa5/local/main/masr.m3u8
