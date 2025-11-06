@@ -300,14 +300,17 @@ https://da.gd/golajo
 #EXTINF:-31 tvg-id="" tvg-logo="" group-title="TELESPORT",CBS HQ
 https://da.gd/cebehq
 
-#EXTINF:-1 tvg-id=" group-title="TELESPORT",SPORTS UZ
-https://iptv.itv.uz/hls/live/t/5KCIDC3X2Gmcxm4bi_8MZQ/e/1762286289/1004/index.m3u8?ip=213.183.48.195
+#EXTINF:-1 tvg-id=" group-title="TELESPORT",PSN 1 Sports 
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
 
-#EXTINF:-1 tvg-id=" group-title="TELESPORT",FUTBOL UZ
-https://iptv.itv.uz/hls/live/t/JhV6OTSNI3B3LZazqARN8w/e/1762286290/1010/index.m3u8?ip=213.183.48.195
+#EXTINF:-1 tvg-id=" group-title="TELESPORT",PSN 2 Sports 
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
 
-#EXTINF:-1 tvg-id=" group-title="TELESPORT",ZO'R
-https://iptv.itv.uz/hls/live/t/wSFqZOpBa2kKirS5s-acwQ/e/1762329600/1016/index.m3u8?ip=213.183.48.195
+#EXTINF:-1 tvg-id=" group-title="TELESPORT",PSN 4 Sports 
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="TELESPORT",PSN 5 Sports 
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="PERSIANA",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
