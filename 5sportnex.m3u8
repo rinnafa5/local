@@ -304,19 +304,6 @@ https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-id=" group-title="TELESPORT",LA2
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
-#EXTINF:-1 tvg-id=" group-title="TELESPORT", Canal 5 IT
-https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="TELESPORT",Canal 1 IT
-https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="TELESPORT",RAI SPORT IT
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="TELESPORT",Lequipe
-https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
-
-
 #EXTINF:-1 group-title="TELESPORT" tvg-id="" tvg-logo="",CBS GOLAZO
 https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 
@@ -336,6 +323,94 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="TELESPORT",PSN 5 Sports 
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",SPORT 1
+https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RTS2
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",SRF2
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",SRF1
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RTS 1
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",BLUEZOOM FR
+https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",BLUEZOOMDE
+https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",SERVUS
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",ORF1
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",ORF2
+https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",DAS ERSTE
+https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RTL 1
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RTL 2
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RTL SUPER
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",ZDF DE
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RTL9
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
+
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",CH4 UK
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",CH5 UK
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",VIZION PLUS ALB
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RTL2 LUX
+https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RTL1 LUX
+https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE", Canal 5 IT
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",Canal 1 IT
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RAI SPORT IT
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",M6 FR
+https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",Lequipe
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",EUROSPORT
+https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="PERSIANA",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
@@ -408,78 +483,6 @@ https://turkhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="PERSIANA",Persiana Emirates
 https://pemirateshls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",fuji next
-https://ca01.utako.moe/fuji_next/index.m3u8
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",wowow prime
-https://mt01.utako.moe/wprime/index.m3u8
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",wowow live
-https://mt01.utako.moe/wlive/index.m3u8
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",wowow cinema
-https://mt01.utako.moe/wcinema/index.m3u8
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",ntv
-https://mt01.utako.moe/Nippon_TV/index.m3u8
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",tv asahi
-https://mt01.utako.moe/TV_Asahi/index.m3u8
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",fuji tv
-https://mt01.utako.moe/Fuji_TV/index.m3u8
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_ntv" tvg-logo="",BS NTV
-https://mt01.utako.moe/bsntv/index.m3u8
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_asahi" tvg-logo="",BS Asahi
-https://mt01.utako.moe/bsasahi/index.m3u8
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv_next" tvg-logo="", Fuji TV Next (Primehome)
-https://raw.githubusercontent.com/rinnafa5/local/main/fujinx.m3u8
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="wowow_prime" tvg-logo="",WOWOW Prime (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs12
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="wowow_cinema" tvg-logo="",WOWOW Cinema (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs07
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="wowow_live" tvg-logo="",WOWOW Live (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs20
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="js1" tvg-logo="",JSport 1 (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs18
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="js2" tvg-logo="",JSport 2 (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs19
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="js3" tvg-logo="",JSport 3 (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs21
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="js4" tvg-logo="",JSport 4 (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs22
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="ntv" tvg-logo="",NTV (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=gd03
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="fuji_tv" tvg-logo="",Fuji TV (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=gd05
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="bs_fuji" tvg-logo="",BS Fuji (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=bs06
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="tv_asahi" tvg-logo="",TV Asahi (NSFW) (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=gd06
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="gaora" tvg-logo="", GAORA SPORTS (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs17
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="ntv_plus" tvg-logo="", Nittele G+ (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs02
-
-#EXTINF:-1 group-title="JAPAN" tvg-id="mondo_tv" tvg-logo="", Mondo TV (Primehome)
-https://proxy.utako.moe/ph.php?&isp=1&id=cs21
 
 #EXTINF:-1 tvg-logo="" group-title="SONYSPORT",SONY SPORTS 2
 https://raw.githubusercontent.com/rinnafa5/local/main/sony2.m3u8
