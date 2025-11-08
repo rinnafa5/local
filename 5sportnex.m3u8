@@ -343,7 +343,7 @@ https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 #EXTINF:-1 tvg-id=" group-title="EUROPE",BLUEZOOM FR
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 
-#EXTINF:-1 tvg-id=" group-title="EUROPE",BLUEZOOMDE
+#EXTINF:-1 tvg-id=" group-title="EUROPE",BLUEZOOM DE
 https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",SERVUS
@@ -410,6 +410,20 @@ https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
 #EXTINF:-1 tvg-id=" group-title="EUROPE",EUROSPORT
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
 
+#EXTINF:-1 tvg-id=" group-title="EUROPE",CARAC 1
+https://viamotionhsi.netplus.ch/live/eds/rougetv/browser-HLS8/rougetv.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",CARAC 2
+https://viamotionhsi.netplus.ch/live/eds/onetv/browser-HLS8/onetv.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",CARAC 3
+https://viamotionhsi.netplus.ch/live/eds/lfmtv/browser-HLS8/lfmtv.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",CARAC 4
+https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",CARAC 5
+https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="PERSIANA",Persiana Cinema
