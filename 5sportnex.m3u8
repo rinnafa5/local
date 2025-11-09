@@ -45,6 +45,10 @@ https://raw.githubusercontent.com/rinnafa5/local/main/mdtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",NUSANTARA
 https://raw.githubusercontent.com/rinnafa5/local/main/Nusantara.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",MIC
+https://raw.githubusercontent.com/rinnafa5/local/main/mic.m3u8
+
+
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",BTV
 https://raw.githubusercontent.com/rinnafa5/local/main/btv.m3u8
 
@@ -56,6 +60,30 @@ https://raw.githubusercontent.com/rinnafa5/local/main/tvrisport.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",RTV
 https://raw.githubusercontent.com/rinnafa5/local/main/rtv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",DENS PLAY
+https://raw.githubusercontent.com/rinnafa5/local/main/dplay.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",DENS FOOD CHANNEL
+https://raw.githubusercontent.com/rinnafa5/local/main/dfc.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",DENS SHOWBIZ
+https://raw.githubusercontent.com/rinnafa5/local/main/showbiz.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",DENS LIFESTYLE
+https://raw.githubusercontent.com/rinnafa5/local/main/dlife.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",MOTOR VISION+
+https://raw.githubusercontent.com/rinnafa5/local/main/wsport.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",JAKTV
+https://raw.githubusercontent.com/rinnafa5/local/main/jak.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",MAGNATV
+https://raw.githubusercontent.com/rinnafa5/local/main/magna.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",RODJA
+https://raw.githubusercontent.com/rinnafa5/local/main/rodja.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",ROCK ACTION
 https://raw.githubusercontent.com/rinnafa5/local/main/rockact.m3u8
@@ -72,32 +100,8 @@ https://raw.githubusercontent.com/rinnafa5/local/main/tvn1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",KPLUS
 https://raw.githubusercontent.com/rinnafa5/local/main/kplus.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",DENS PLAY
-https://raw.githubusercontent.com/rinnafa5/local/main/dplay.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",DENS FOOD CHANNEL
-https://raw.githubusercontent.com/rinnafa5/local/main/dfc.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",DENS SHOWBIZ
-https://raw.githubusercontent.com/rinnafa5/local/main/showbiz.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",DENS LIFESTYLE
-https://raw.githubusercontent.com/rinnafa5/local/main/dlife.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",ANIPLUS
 https://raw.githubusercontent.com/rinnafa5/local/main/aniplus.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",MOTOR VISION+
-https://raw.githubusercontent.com/rinnafa5/local/main/wsport.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",JAKTV
-https://raw.githubusercontent.com/rinnafa5/local/main/jak.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",MAGNATV
-https://raw.githubusercontent.com/rinnafa5/local/main/magna.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="NASIONAL",RODJA
-https://raw.githubusercontent.com/rinnafa5/local/main/rodja.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",TVRI NASIONAL HD
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
