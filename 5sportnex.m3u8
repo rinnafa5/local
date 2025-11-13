@@ -346,8 +346,6 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 
-#EXTINF:-1 tvg-id=" group-title="EUROPE",SPORT 1
-https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RTS2
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
@@ -358,6 +356,33 @@ https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RSI 2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 
+#EXTINF:-1 tvg-id=" group-title="EUROPE",TF1
+https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",Lequipe
+https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RAI 1 IT
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",BLUEZOOM FR
+https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",BLUEZOOM DE
+https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE", Canal 5 IT
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",Canal 1 IT
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RAI SPORT IT
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",SPORT 1
+https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
+
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RSI 1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 
@@ -366,12 +391,6 @@ https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RTS 1
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",BLUEZOOM FR
-https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",BLUEZOOM DE
-https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-HLS8/bluezoomde.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",SERVUS
 https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
@@ -391,11 +410,12 @@ https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RTL 2
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
 
+#EXTINF:-1 tvg-id=" group-title="EUROPE",ZDF DE
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
+
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RTL SUPER
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 
-#EXTINF:-1 tvg-id=" group-title="EUROPE",ZDF DE
-https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RTL9
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
@@ -407,7 +427,7 @@ https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 #EXTINF:-1 tvg-id=" group-title="EUROPE",CH5 UK
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 
-#EXTINF:-1 tvg-id=" group-title="EUROPE",VIZION PLUS ALB
+#EXTINF:-1 tvg-id=" group-title="EUROPE",VIZION PLUS
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RTL2 LUX
@@ -416,23 +436,8 @@ https://stream.rtl.lu/data/live/tele/channel2/playlist.m3u8
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RTL1 LUX
 https://stream.rtl.lu/data/live/tele/channel1/playlist.m3u8
 
-#EXTINF:-1 tvg-id=" group-title="EUROPE", Canal 5 IT
-https://viamotionhsi.netplus.ch/live/eds/canale5/browser-HLS8/canale5.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",Canal 1 IT
-https://viamotionhsi.netplus.ch/live/eds/italia1/browser-HLS8/italia1.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",RAI SPORT IT
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
-
 #EXTINF:-1 tvg-id=" group-title="EUROPE",M6 FR
 https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",TF1
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",Lequipe
-https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",EUROSPORT
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
