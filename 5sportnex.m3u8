@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id=" group-title="TEST", BHRT HD
+https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
+
 #EXTINF:-1 tvg-id=" group-title="TEST", BHRT
 https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
 
