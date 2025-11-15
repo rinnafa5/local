@@ -1,35 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=" group-title="EUROPE",BHRT HD
-https://webtvstream.bhtelecom.ba/hls13/bhrtportal_hd_1200.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",BHRT
-https://webtvstream.bhtelecom.ba/hls13/bhrtportal.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",STAR MOV
-https://webtvstream.bhtelecom.ba/star_movies.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",STAR CH
-https://webtvstream.bhtelecom.ba/star_channel.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",STAR LIVE
-https://webtvstream.bhtelecom.ba/star_life.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",RTRS+
-https://webtvstream.bhtelecom.ba/rtrs_plus.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",RTS2
-https://webtvstream.bhtelecom.ba/rts2.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",RTS1
-https://webtvstream.bhtelecom.ba/rts1.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",RTS SVET
-https://webtvstream.bhtelecom.ba/rts_svet.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",ZADUGA LIVE1
-https://webtvstream.bhtelecom.ba/zadruga_live1.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",MOJI
 https://raw.githubusercontent.com/rinnafa5/local/main/moji.m3u8
 
@@ -396,7 +366,8 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-id=" group-title="TELESPORT",PSN 5 Sports 
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
-
+#EXTINF:-1 tvg-id=" group-title="EUROPE",BHRT
+https://raw.githubusercontent.com/rinnafa5/local/main/bhrt.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RTS2
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
@@ -508,6 +479,29 @@ https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.
 #EXTINF:-1 tvg-id=" group-title="EUROPE",CARAC 5
 https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
 
+EXTINF:-1 tvg-id=" group-title="EUROPE",STAR MOV
+https://webtvstream.bhtelecom.ba/star_movies.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",STAR CH
+https://webtvstream.bhtelecom.ba/star_channel.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",STAR LIVE
+https://webtvstream.bhtelecom.ba/star_life.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RTRS+
+https://webtvstream.bhtelecom.ba/rtrs_plus.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RTS2
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RTS1
+https://webtvstream.bhtelecom.ba/rts1.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RTS SVET
+https://webtvstream.bhtelecom.ba/rts_svet.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",ZADUGA LIVE1
+https://webtvstream.bhtelecom.ba/zadruga_live1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="PERSIANA",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
