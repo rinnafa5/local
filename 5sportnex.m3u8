@@ -479,14 +479,17 @@ https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.
 #EXTINF:-1 tvg-id=" group-title="EUROPE",CARAC 5
 https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
 
-#EXTINF:-1 tvg-id=" group-title="EUROPE",STAR MOV
+#EXTINF:-1 tvg-id=" group-title="EUROPE",STAR MOVIES
 https://webtvstream.bhtelecom.ba/star_movies.m3u8
 
-#EXTINF:-1 tvg-id=" group-title="EUROPE",STAR CH
+#EXTINF:-1 tvg-id=" group-title="EUROPE",STAR CHANNEL
 https://webtvstream.bhtelecom.ba/star_channel.m3u8
 
-#EXTINF:-1 tvg-id=" group-title="EUROPE",STAR LIVE
+#EXTINF:-1 tvg-id=" group-title="EUROPE",STAR LIFE
 https://webtvstream.bhtelecom.ba/star_life.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",STAR CRIME
+https://webtvstream.bhtelecom.ba/star_crime.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RTRS+
 https://webtvstream.bhtelecom.ba/rtrs_plus.m3u8
