@@ -479,7 +479,7 @@ https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.
 #EXTINF:-1 tvg-id=" group-title="EUROPE",CARAC 5
 https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
 
-EXTINF:-1 tvg-id=" group-title="EUROPE",STAR MOV
+#EXTINF:-1 tvg-id=" group-title="EUROPE",STAR MOV
 https://webtvstream.bhtelecom.ba/star_movies.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",STAR CH
