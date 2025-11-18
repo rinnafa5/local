@@ -389,6 +389,10 @@ https://viamotionhsi.netplus.ch/live/eds/lequipe21/browser-HLS8/lequipe21.m3u8
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RAI 1 IT
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
 
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RAI 2 IT
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+
+
 #EXTINF:-1 tvg-id=" group-title="EUROPE",BLUEZOOM FR
 https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS8/bluezoomfr.m3u8
 
@@ -428,14 +432,15 @@ https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
 #EXTINF:-1 tvg-id=" group-title="EUROPE",DAS ERSTE
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
 
+#EXTINF:-1 tvg-id=" group-title="EUROPE",ZDF DE
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
+
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RTL 1
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RTL 2
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
 
-#EXTINF:-1 tvg-id=" group-title="EUROPE",ZDF DE
-https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RTL SUPER
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
