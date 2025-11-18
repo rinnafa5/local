@@ -411,6 +411,31 @@ https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
 #EXTINF:-1 tvg-id=" group-title="EUROPE",SPORT 1
 https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
 
+#EXTINF:-1 tvg-id=" group-title="EUROPE", BBC 2
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE", BBC 3
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE", ITV 2
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE", ITV 3
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE", ITV 4
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",ZDF DE
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",RTL 1
+https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",SERVUS
+https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
+
+
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RSI 1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 
@@ -420,8 +445,6 @@ https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RTS 1
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
 
-#EXTINF:-1 tvg-id=" group-title="EUROPE",SERVUS
-https://viamotionhsi.netplus.ch/live/eds/servustvhd/browser-HLS8/servustvhd.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",ORF1
 https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
@@ -432,11 +455,6 @@ https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
 #EXTINF:-1 tvg-id=" group-title="EUROPE",DAS ERSTE
 https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-HLS8/daserstehd.m3u8
 
-#EXTINF:-1 tvg-id=" group-title="EUROPE",ZDF DE
-https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
-
-#EXTINF:-1 tvg-id=" group-title="EUROPE",RTL 1
-https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RTL 2
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
