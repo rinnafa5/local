@@ -45,7 +45,6 @@ https://raw.githubusercontent.com/rinnafa5/local/main/Nusantara.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",MIC
 https://raw.githubusercontent.com/rinnafa5/local/main/mic.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",BTV
 https://raw.githubusercontent.com/rinnafa5/local/main/btv.m3u8
 
@@ -140,7 +139,6 @@ https://global-cdn3.visionplus.id/out/v1/5aaf87bed1e94247a397dddd3e2f5377/index.
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",dubai1
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
 
@@ -210,7 +208,7 @@ https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",ZIMBO TV
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY", Red+
+#EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",Red+
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",TCS+
@@ -228,9 +226,6 @@ https://pepsi.abntv.live/hls/4spstream.m3u8
 #EXTINF:-1 tvg-id=" group-title="TELESPORT",PRO SPORT INT
 https://proshls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELESPORT",PERSIANA FIGHT
-https://fighthls.persiana.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",IRIB TV3
 https://lenz.splus.ir/PLTV/88888888/224/3221226868/4.m3u8
 
@@ -245,6 +240,9 @@ https://raw.githubusercontent.com/rinnafa5/local/main/tw2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",TW SPORT3
 https://raw.githubusercontent.com/rinnafa5/local/main/tw3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",PERSIANA FIGHT
+https://fighthls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT", IRIB TV3 SD
 https://raw.githubusercontent.com/rinnafa5/local/main/iribtv3.m3u8
@@ -300,7 +298,7 @@ https://raw.githubusercontent.com/rinnafa5/local/main/sportstv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",PERSIANA HD
 https://af.ayassport.ir/hls2/persiana.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="TELESPORT", VARZESH HD
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",VARZESH HD
 https://af.ayassport.ir/hls2/varzeshtest.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TELESPORT",IRIB TV3 HD
@@ -368,8 +366,6 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 #EXTINF:-1 tvg-id=" group-title="TELESPORT",PSN 5 Sports 
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
-#EXTINF:-1 tvg-id=" group-title="EUROPE",BHRT
-https://raw.githubusercontent.com/rinnafa5/local/main/bhrt.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",RTS2
 https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
@@ -503,6 +499,9 @@ https://viamotionhsi.netplus.ch/live/eds/tvsuisseplus/browser-HLS8/tvsuisseplus.
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",CARAC 5
 https://viamotionhsi.netplus.ch/live/eds/teleswizz/browser-HLS8/teleswizz.m3u8
+
+#EXTINF:-1 tvg-id=" group-title="EUROPE",BHRT
+https://raw.githubusercontent.com/rinnafa5/local/main/bhrt.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="EUROPE",STAR MOVIES
 https://webtvstream.bhtelecom.ba/star_movies.m3u8
