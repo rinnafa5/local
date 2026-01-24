@@ -817,10 +817,6 @@ https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/novasport3.m3u8
 https://github.com/cattviptv2605/m3u8-world-/raw/refs/heads/main/novasport4.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE KEN
-#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
-https://gaje0525.edgemaxcdn.org/live/kensd1/playlist.m3u8
-https://gaje0525.edgemaxcdn.org/live/kensd2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE LARUE
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
@@ -832,10 +828,23 @@ https://gaje0525.edgemaxcdn.org/live/laruesd2/playlist.m3u8
 https://gaje0525.edgemaxcdn.org/live/becksd1/playlist.m3u8
 https://gaje0525.edgemaxcdn.org/live/becksd2/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE COCA
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/cocasd1/playlist.m3u8
+https://gaje0525.edgemaxcdn.org/live/cocasd2/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE HUDA
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
 https://gaje0525.edgemaxcdn.org/live/hudasd1/playlist.m3u8
 https://gaje0525.edgemaxcdn.org/live/hudasd2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL6MyuICefDVKe5FY28E_lJGAMEj4epGOIZ0oy9APC-ewip4Es8LAsEZw&s=10" group-title="LIVE SPORTS",LIVE KEN
+#EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
+https://gaje0525.edgemaxcdn.org/live/kensd1/playlist.m3u8
+https://gaje0525.edgemaxcdn.org/live/kensd2/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-name="" tvg-id="1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgobJGsK-bdCAzujX49ZUMjEziXtetTxKXiw&usqp=CAU" group-title="LIVE SPORTS", EVENT5 BOLA 1 (AKTIF SAAT LIVE)
 #EXTVLCOPT:http-referrer=https://r90-stream-source.team4pro.site/
