@@ -1,21 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-0 group-title="THAILAND" tvg-logo="https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png", 3BB-BALLTHAI 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://cnt1-streamer5.cdn.3bbtv.com:8443/3bb/tstv/901/901.mpd
-
-#EXTINF:-0 group-title="THAILAND" tvg-logo="https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png", 3BB-BALLTHAI 2
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://cnt1-streamer7.cdn.3bbtv.com:8443/3bb/tstv/902/902.mpd
-
-#EXTINF:-0 group-title="THAILAND" tvg-logo="https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png", 3BB-BALLTHAI 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-https://cnt1-streamer1.cdn.3bbtv.com:8443/3bb/tstv/903/903.mpd
-
 #EXTINF:-1 tvg-logo="" group-title="NASIONAL",MOJI
 https://raw.githubusercontent.com/rinnafa5/local/main/moji.m3u8
 
@@ -1207,6 +1191,8 @@ https://live.rte.ie/live/a/channel2/channel2.isml/channel2.mpd
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 
 #EXTINF:-1 tvg-id="PPTV HD.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/36.png" group-title="FIFA26", PPTV36 HD 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
