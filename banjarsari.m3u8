@@ -85,7 +85,7 @@ https://xemzi.short.gy/1000001
 #EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="FIFA26", BBC Two 
 https://xemzi.short.gy/1000001
 
-#EXTINF:-1 group-logo="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png"
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png"
 
 #EXTINF:-1 group-title="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" tvg-name="FIFA+" ,FIFA+ English (S1)
 https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
@@ -122,7 +122,7 @@ https://afa7d3ea.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3
 #EXTINF:-1 group-title="FIFA+" tvg-logo="https://i.imgur.com/xy9ZxVO.png" ,FIFA+ Women
 https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 
-#EXTINF:-1 group-logo="PREMIUM SPORTS" tvg-logo="https://iili.io/KfT7PJ2.jpg"
+#EXTINF:-1 group-logo="https://iili.io/KfT7PJ2.jpg"
 
 #EXTINF:-1 tvg-id="PrimaSport1.ro" group-title="PREMIUM SPORTS" tvg-name="Prima Sport 1" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/52/Prima_Sport_1_%282022-.n.v.%29.png/revision/latest/thumbnail/width/360/height/360?cb=20240205121905",PRIMA SPORT 1
 #EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
