@@ -119,32 +119,25 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/85f6d3da0e064dbe99e7bf1e18bc47c4/ind
 #EXTINF:-1 tvg-id="TVRI.id@SD" group-title="INDONESIA" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_tvri.png",TVRI
 https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 group-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png"
+#EXTINF:-1 group-logo="https://image-cdn.hypb.st/httpsdunia-2026-01.jpeg"
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="Kilat Live", BBC ONE (Kilat Live)
+#EXTINF:-1 tvg-logo="https://image-cdn.hypb.st/httpsdunia-2026-01.jpeg" group-title="Kilat Live",BBC ONE (Kilat Live)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kilat-live.com/
 #EXTVLCOPT:http-origin=https://kilat-live.com
 https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_BBC_1_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="Kilat Live", iTV1 (Kilat Live)
+#EXTINF:-1 tvg-logo="https://image-cdn.hypb.st/httpsdunia-2026-01.jpeg" group-title="Kilat Live",iTV1 (Kilat Live)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kilat-live.com/
 #EXTVLCOPT:http-origin=https://kilat-live.com
 https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/UK_ITV_1_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="Kilat Live", sport5 tv (Kilat Live)
+#EXTINF:-1 tvg-logo="https://image-cdn.hypb.st/httpsdunia-2026-01.jpeg" group-title="Kilat Live", sport5 tv (Kilat Live)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kilat-live.com/
 #EXTVLCOPT:http-origin=https://kilat-live.com
 https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/LIVE_PT_SPORT_TV_5/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/62/1/2026-fifa-world-cup-logo-png_seeklogo-624583.png" group-title="Kilat Live", sport5 tv (Kilat Live)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://kilat-live.com/
-#EXTVLCOPT:http-origin=https://kilat-live.com
-https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/LIVE_PT_SPORT_TV_2/tracks-v1a1/mono.ts.m3u8
-
 
 #EXTINF:-1 group-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png"
 
@@ -192,7 +185,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a29e3b7dc26ced80114da99266ea636:9f1e4034545fed90b5ce7a8f8925e621
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/iy79zu8tb9/out/v1/e86df8b45c0f452daf49ca6e3d27103e/cenc-sd.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQID-lg2H4PeSDC44affkJIGy6YBioiHxHPJYeP6JgXtig4kzBd6ffa4Y8&s=10" group-title="FIFA26",RTBF TIPIK
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
