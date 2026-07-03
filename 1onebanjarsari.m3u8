@@ -221,35 +221,37 @@ https://vod2live.univtec.com/manifest/a99a1804-dc83-411f-8c1c-b62f08cdfa59.m3u8
 #EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.26nw.png" group-title="FIFA26", QAZAQSTAN
+#EXTINF:-28 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="FIFA26", QAZAQSTAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://ivTZ8fjF/wc26nw.png" group-title="FIFA26", IRIB 4K
+#EXTINF:-28 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="FIFA26", IRIB 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ivTZ8fjF/wc26nw.png" group-title="FIFA26", IRIB Varzesh
+#EXTINF:-28 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="FIFA26", IRIB VARZESH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ivTZ8fjF/wc26nw.png" group-title="FIFA26", IRIB tv3
+#EXTINF:-28 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="FIFA26",IRIB TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://ivTZ8fjF/wc26nw.png" group-title="FIFA26", IRIB 3
+#EXTINF:-28 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="FIFA26", IRIB TV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://stream.live12.ir/hls2/tv3.m3u8
+https://stream.live12.ir/hls2/tv3test.m3u8
 
-#EXTINF:-1 tvg-logo="https://ivTZ8fjF/wc26nw.png" group-title="FIFA26", PERSIANA1
+#EXTINF:-28 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="FIFA26", IRIB VARZESH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://stream.live12.ir/hls2/varzeshtest.m3u8
+
+
+#EXTINF:-28 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="FIFA26", PERSIANA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://stream.live12.ir/hls2/persiana.m3u8
 
-#EXTINF:-1 tvg-logo="https://ivTZ8fjF/wc26nw.png" group-title="FIFA26", PERSIANA2
+#EXTINF:-28 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/4.png" group-title="FIFA26",PERSIANA 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://stream.live12.ir/hls2/persiana2.m3u8
 
