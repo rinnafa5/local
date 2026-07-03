@@ -230,6 +230,16 @@ https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://ivTZ8fjF/wc26nw.png" group-title="FIFA26", IRIB Varzesh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://ncdn.telewebion.ir/varzesh/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ivTZ8fjF/wc26nw.png" group-title="FIFA26", IRIB tv3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="https://ivTZ8fjF/wc26nw.png" group-title="FIFA26", IRIB 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
