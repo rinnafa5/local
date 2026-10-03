@@ -214,6 +214,11 @@ https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWE
 #EXTINF:-1 tvg-logo="" group-title="TIMNASDAY",TCS+
 https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",IRIB TV3
+https://cp11.adabmedia.com/hls2/tv3test.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TELESPORT",VARZESH
+https://cp11.adabmedia.com/hls2/varzeshtest.m3u8
 
 #EXTINF:-1 tvg-id=" group-title="TELESPORT",PERSIANA SPORTS 1
 https://spstr.abntv.live/hls/psstream.m3u8
